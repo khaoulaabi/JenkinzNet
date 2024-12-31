@@ -1,539 +1,543 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjetPfa.bundle.scp.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjetPfa.bundle.scp.css",
       "PackagePath": "staticwebassets\\ProjetPfa.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\css\\main.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\css\\style-starter.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\css\\style-starter.css",
       "PackagePath": "staticwebassets\\assets\\css\\style-starter.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\1.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\3.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\4.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\5.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\6.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\A.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\A.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\A.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\AA.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\AA.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\AA.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\AAA.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\AAA.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\AAA.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\B.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\B.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\B.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BB.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BB.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\BB.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BBB.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BBB.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\BBB.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BBBB.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\BBBB.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\BBBB.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\C.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\C.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\C.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\CC.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\CC.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\CC.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\Long1.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\Long1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\Long1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\M2.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\M2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\M2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\ab1.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\ab1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\ab1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\ab2.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\ab2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\ab2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner1.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner2.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner3.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner3.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner4.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner4.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner5.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\banner5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner5.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\dalaa.jpeg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\dalaa.jpeg",
       "PackagePath": "staticwebassets\\assets\\images\\dalaa.jpeg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\electricien1.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\electricien1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\electricien1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\electricien11.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\electricien11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\electricien11.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\facebook.png",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\facebook.png",
       "PackagePath": "staticwebassets\\assets\\images\\facebook.png"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\instagram.png",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\instagram.png",
       "PackagePath": "staticwebassets\\assets\\images\\instagram.png"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\linkedin.png",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\linkedin.png",
       "PackagePath": "staticwebassets\\assets\\images\\linkedin.png"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\logo-icon.png",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\logo-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\media-img.png",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\media-img.png",
       "PackagePath": "staticwebassets\\assets\\images\\media-img.png"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\menuiserie1.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\menuiserie1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menuiserie1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\menuisier2.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\menuisier2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menuisier2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\nvl.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl2.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\nvl2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl3.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\nvl3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\nvl3.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\plombier1.jpeg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\plombier1.jpeg",
       "PackagePath": "staticwebassets\\assets\\images\\plombier1.jpeg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\plombier2.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\plombier2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\plombier2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\search-solid.svg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\search-solid.svg",
       "PackagePath": "staticwebassets\\assets\\images\\search-solid.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\search.png",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\search.png",
       "PackagePath": "staticwebassets\\assets\\images\\search.png"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team2.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team3.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team3.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team4.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team4.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team5.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team5.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team6.jpg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\team6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team6.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\twitter.png",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\images\\twitter.png",
       "PackagePath": "staticwebassets\\assets\\images\\twitter.png"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\jquery-1.9.1.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\jquery-1.9.1.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-1.9.1.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\theme-change.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\js\\theme-change.js",
       "PackagePath": "staticwebassets\\assets\\js\\theme-change.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Admincss.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Admincss.css",
       "PackagePath": "staticwebassets\\css\\Admincss.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Choix.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Choix.css",
       "PackagePath": "staticwebassets\\css\\Choix.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Css_Liste.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Css_Liste.css",
       "PackagePath": "staticwebassets\\css\\Css_Liste.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Form.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Form.css",
       "PackagePath": "staticwebassets\\css\\Form.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Profil.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\css\\Profil.css",
       "PackagePath": "staticwebassets\\css\\Profil.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\js\\Choix.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\images\\87d28376-e127-487c-9aae-af643f6c2408.png",
+      "PackagePath": "staticwebassets\\images\\87d28376-e127-487c-9aae-af643f6c2408.png"
+    },
+    {
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\js\\Choix.js",
       "PackagePath": "staticwebassets\\js\\Choix.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\A\\Desktop\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

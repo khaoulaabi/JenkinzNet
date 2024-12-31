@@ -9,105 +9,119 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetPfa
 build_property.RootNamespace = ProjetPfa
-build_property.ProjectDir = C:\Users\HP\source\repos\Project-e-service\ProjetPfa\
+build_property.ProjectDir = C:\Users\A\Desktop\AllAbout4\PROJECT.NETv2\Project-e-service\ProjetPfa\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HP\source\repos\Project-e-service\ProjetPfa
+build_property.MSBuildProjectDirectory = C:\Users\A\Desktop\AllAbout4\PROJECT.NETv2\Project-e-service\ProjetPfa
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/About/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/About/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU2hvdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Acceuil/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Acceuil/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXVpbFxTaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/AdminListe/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/AdminListe/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MaXN0ZVxTaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Categories/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Categories/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xTaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Contact/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Contact/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxTaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Home/Index.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/DetailPrest/social.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsUHJlc3Rcc29jaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/DetailPrest/SuccessPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsUHJlc3RcU3VjY2Vzc1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/DetailPrest/verify.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsUHJlc3RcdmVyaWZ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Home/Privacy.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Liste/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Liste/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGVcU2hvdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Service/Add.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Service/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Shared/Error.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Shared/_NavBar.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Shared/_NavBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignIn/choix.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignIn/choix.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbkluXGNob2l4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignIn_Admin/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignIn_Admin/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbkluX0FkbWluXFNob3cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignIn_Client/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignIn_Client/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbkluX0NsaWVudFxTaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignIn_Prestataire/Show.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignIn_Prestataire/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbkluX1ByZXN0YXRhaXJlXFNob3cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignUp/choix.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignUp/choix.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXGNob2l4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignUp_Chercheur/SignUp_Chercheur.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignUp_Chercheur/SignUp_Chercheur.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwX0NoZXJjaGV1clxTaWduVXBfQ2hlcmNoZXVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignUp_Client/SignUp_Client.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignUp_Client/SignUp_Client.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwX0NsaWVudFxTaWduVXBfQ2xpZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignUp_Prestataire/EditProfil.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignUp_Prestataire/EditProfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwX1ByZXN0YXRhaXJlXEVkaXRQcm9maWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/SignUp_Prestataire/SignUp_Prestataire.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/SignUp_Prestataire/SignUp_Prestataire.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwX1ByZXN0YXRhaXJlXFNpZ25VcF9QcmVzdGF0YWlyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/_ViewImports.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/_ViewStart.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Project-e-service/ProjetPfa/Views/Shared/_Layout.cshtml]
+[C:/Users/A/Desktop/AllAbout4/PROJECT.NETv2/Project-e-service/ProjetPfa/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-enq702o5kv

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\ProjetPfa.csproj": {}
+    "C:\\Users\\A\\Desktop\\AllAbout4\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\ProjetPfa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\ProjetPfa.csproj": {
+    "C:\\Users\\A\\Desktop\\AllAbout4\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\ProjetPfa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\ProjetPfa.csproj",
+        "projectUniqueName": "C:\\Users\\A\\Desktop\\AllAbout4\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\ProjetPfa.csproj",
         "projectName": "ProjetPfa",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\ProjetPfa.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Project-e-service\\ProjetPfa\\obj\\",
+        "projectPath": "C:\\Users\\A\\Desktop\\AllAbout4\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\ProjetPfa.csproj",
+        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A\\Desktop\\AllAbout4\\PROJECT.NETv2\\Project-e-service\\ProjetPfa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
